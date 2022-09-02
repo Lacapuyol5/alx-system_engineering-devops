@@ -1,2 +1,0 @@
-#!/bin/bash\n
-chmod -reference olleh hello
